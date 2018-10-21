@@ -1,6 +1,7 @@
 # LearnOpenGL
-I'm create this repository for learning the OpenGL library.
 
-----------------------------------------------------------------------------
+Project for studying OpenGL library.
 
-In This project I'm using different sources of the light and import the crysis suit.
+This project represents some basic aspects of computer graphics. There are scene, camera, light, model and etc.
+The scene consists of different light sources and a model of the suit from Crysis game.
+User can change the camera's position and rotation and see how light sources influence on this model
